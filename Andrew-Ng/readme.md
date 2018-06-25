@@ -8,3 +8,4 @@
 [1](https://github.com/zcenao21/Machine-Learning/blob/master/Andrew-Ng/Logistic-Regression/LogisticRegression.m)
 [2](https://github.com/zcenao21/Machine-Learning/blob/master/Andrew-Ng/Logistic-Regression/sigmoid.m)
 - [data](https://github.com/zcenao21/Machine-Learning/tree/master/Andrew-Ng/Logistic-Regression/ex2data1.txt)
+-![result](https://github.com/zcenao21/Machine-Learning/blob/master/Andrew-Ng/Logistic-Regression/result.png?raw=true)
