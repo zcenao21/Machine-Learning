@@ -12,5 +12,5 @@
 ![result](https://github.com/zcenao21/Machine-Learning/blob/master/Andrew-Ng/Logistic-Regression/result.png?raw=true)
 
 ### Neural Network
-- BP algorithms
+- BP algorithms  
 [formula derivation](https://www.jianshu.com/p/c5cda5a52ee4)
