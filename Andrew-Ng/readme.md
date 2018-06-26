@@ -10,3 +10,7 @@
 - [data](https://github.com/zcenao21/Machine-Learning/tree/master/Andrew-Ng/Logistic-Regression/ex2data1.txt)
 - result  
 ![result](https://github.com/zcenao21/Machine-Learning/blob/master/Andrew-Ng/Logistic-Regression/result.png?raw=true)
+
+### Neural Network
+- BP algorithms
+[formula derivation](https://www.jianshu.com/p/c5cda5a52ee4)
